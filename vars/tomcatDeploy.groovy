@@ -10,5 +10,5 @@ def call(ip,user,credId){
        //sh "ssh ${user}@${it} /opt/tomcat8/bin/shutdown.sh"
        //sh "ssh ${user}@${it} /opt/tomcat8/bin/startup.sh"  
                     
- // }
+ }
 }
